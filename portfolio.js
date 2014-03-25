@@ -27,10 +27,6 @@ $('.projects').each(function() {
   $('#project' + "-" + index).show(1000);
 });
 
-// return $('html, body').animate({
-//   scrollTop: "#projects"
-// }, 500);
-
 }
 
 function project_hide(index)
