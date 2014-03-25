@@ -77,6 +77,7 @@ CU Housing & Dining<br>
 Strategic Communication Intern, 07/13-Present<br>
 <div class="resume-bp">
 • Creating content for the Housing & Dining Services websites and social media outlets<br>
+• Earning my certification in Google analytics<br>
 • Working with my team to brainstorm and implement our new “Be Boulder.” branding campaign for all of the content in our department<br>
 • Created a video production for incoming students to help them choose their on-campus living experience, and edited a video for professional staff recruitment<br><br>
 </div>
@@ -106,9 +107,9 @@ Cheyenne Village Volunteer<br>
 Cheyenne Village is a non-profit organization that provides housing and employment opportunities to people with developmental disabilities; I helped with various office tasks, went on trips with the younger residents, volunteered as a greeter at the annual fundraising event “Vineyard at the Village”, and performed with my musical group at events<br><br>
 
 <h2>ADDITIONAL SKILLS</h2><br>
-Skilled in: Adobe CS6, Garage Band, Guitar, HTML/CSS, iMovie, Microsoft Office Suite, Vocal performance<br>
-Intermediate in: Drupal 7, Final Cut Pro, JavaScript, jQuery, PHP<br>
-Proficient in: Logic Pro, MySQL, Objective-C<br>
+Skilled in: Adobe CS6, Garage Band, Google Apps, Guitar, HTML/CSS, iMovie, Microsoft Office Suite, Vocal performance<br>
+Intermediate in: Agile product management, Git, Drupal 7, Final Cut Pro, JavaScript, jQuery, PHP<br>
+Proficient in: Arduino, Google Analytics, Logic Pro, MySQL, Objective-C<br>
 
   <a href="#about-me" onclick="resume_hide();" class="button scrollable">Close</a>
   <a href="katie-porter-resume.pdf" target="_blank" class="button">Download PDF</a>
